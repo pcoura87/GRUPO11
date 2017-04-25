@@ -1,0 +1,68 @@
+OBJETIVO GERAL
+
+Estabelecer uma análise pormenorizada das plataformas utilizadas pela Prefeitura de São Paulo para a disponibilização de dados, estabelecendo níveis de maturação e qualidade, de forma a propor ao poder público municipal falhas, buracos e possibilidades de aperfeiçoamento da sua disponibilização de dados.
+
+- Existem diversos portais de governo aberto/dados abertos espalhadas (prefeitura, secretarias, prodam, LabProdam, CET, Mobilab). Por exemplo, o CKAN da PMSP deveria, em tese, ter as APIs disponíveis. No entanto, nenhuma está disponível. Encontrei 3 APIs disponíveis em um site da prodam (Vitrine de APIs).
+ 
+
+OBJETIVOS ESPECÍFICOS
+
+- mapear todos os sistemas/dados disponibilizados
+- verificar e relatar se os dados estão atualizados, se os sistemas estão operando e o grau de maturidade dos dados disponíveis (0 a 5 estrelas).
+
+
+JUSTIFICATIVA
+
+É crescente a discussão sobre a necessidade e a qualidade dos dados abertos das autoridades governamentais. Torna-se importante que os governos se organizem de forma a disponibilizar os dados para o acesso geral e que a regra seja a disponibilização das informações acerca da administração pública.
+
+
+METODOLOGIA
+
+Faremos uma análise dos dados disponíveis nos links dispostos no Portal de Transparência da Prefeitura de São Paulo, com vistas a desenvolver os conceitos de maturação de dados e informações do modelo proposto por Tim Berners Lee.
+
+A abertura de dados leva em consideração três elementos importantes
+
+
+DESENVOLVIMENTO
+
+O site que abriga o Portal de Transparência da Prefeitura de São Paulo, www.transparencia.prefeitura.sp.gov.br contém um mecanismo de busca em funcionamento no canto superior da página. No início da página tem um scroll horizontal com duas notícias do ano atual e a terceira referente à 2016. Há ainda três links, destinados ao histórico de notícias, “enviar por e-mail”, sem destino e um terceiro link de impressão, que exibe uma mensagem sobre a necessidade de impressão das notícias.
+
+Ná área central da página tem dezesseis abas divididas por tipo de informação:
+
+Receitas, Despesas; Funcionalismo e Prefeituras Regionais;
+Governo Aberto; Controle Social; Acesso à Informação e Sistema de Informação ao Cidadão;
+Compras e Licitações; Administração Indireta Contratos, Convênios e Parcerias;
+Doações; Comodatos e Cooperação.
+
+
+1.1. Receitas, Despesas; Funcionalismo e Prefeituras Regionais;
+
+Falhas: 
+Quantidade de links disponíveis
+
+1.2. Governo Aberto; Controle Social; Acesso à Informação e Sistema de Informação ao Cidadão;
+
+Falhas: 
+Quantidade de links disponíveis
+
+1.3. Compras e Licitações; Administração Indireta Contratos, Convênios e Parcerias;
+
+Falhas: 
+Quantidade de links disponíveis
+
+1.4. Doações; Comodatos e Cooperação.
+
+Falhas: 
+Quantidade de links disponíveis
+
+CKAN
+
+O CKAN é uma plataforma utilizada mundialmente por governos, organizações e instituições que tem interesse em disponibilizar informações de acesso aberto, como aquelas que serão matéria prima para o desenvolvimento de outros sistemas. 
+
+Nessa seara, buscaremos então desenvolver uma análise geral da disponibilização nessa plataforma e aplicar ainda os graus de maturação dessas informações acerca da Prefeitura da Cidade de São Paulo. http://dados.prefeitura.sp.gov.br/
+
+ANÁLISE
+
+CONCLUSÃO
+
+REFERÊNCIAS BIBLIOGRÁFICAS
